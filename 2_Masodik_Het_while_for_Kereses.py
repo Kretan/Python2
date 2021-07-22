@@ -32,4 +32,7 @@ while i < len(listam):
 
 if szerepel==False:
     print(keresett_szam, "nem szerepel a listában")
+    
+    
+    
 """
